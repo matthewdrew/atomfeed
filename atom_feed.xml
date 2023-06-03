@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom">
 
   <title>Vast Sky Solutions News</title>
   <link href="https://www.vastsky.solutions/news"/>
@@ -8,6 +8,7 @@
     <name>Vast Sky Solutions</name>
   </author>
   <id>https://www.vastsky.solutions/news</id>
+  <atom:link href="https://www.vastsky.solutions/news" rel="self" type="application/atom+xml"/>
 
   <entry>
     <title>Vast Sky Solutions Launches New Range of Outdoor Cabins and Pods</title>
@@ -28,4 +29,3 @@
   <!-- Add new <entry> elements here whenever you publish a new press release. -->
 
 </feed>
-
