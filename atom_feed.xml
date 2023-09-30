@@ -10,13 +10,21 @@
   <id>https://www.vastsky.solutions/news</id>
   <atom:link href="https://www.vastsky.solutions/news" rel="self" type="application/atom+xml"/>
 
-  <entry>
+ <entry>
     <title>Vast Sky Solutions Launches New Range of Outdoor Cabins and Pods</title>
     <link href="https://www.vastsky.solutions/2023-06-01-vast-sky-solutions-new-outdoor-cabins-pods"/>
     <id>https://www.vastsky.solutions/2023-06-01-vast-sky-solutions-new-outdoor-cabins-pods</id>
     <updated>2023-06-01T00:00:00Z</updated>
-    <summary>Vast Sky Solutions is excited to introduce a new range of outdoor cabins and pods, offering customers unique, comfortable, and sustainable living solutions. Discover the harmonious blend of comfort and nature in our diverse range of outdoor living products.</summary>
-  </entry>
+    <content type="html">
+        <![CDATA[
+            <!-- Your article content, including the image -->
+            <img src="https://lh6.googleusercontent.com/l5k4Y0B5mOQ8XOCdU56Qp0XY2ABFJM1gBjjsMyik2Nh6XM30NCya8t3enon3G9hWHPXoeg6tvJ99XF24XtkdvgdaTEZbhftKE-ou-KuQxytU9RWAOfJ4ppj612NfPLq7_g=w1280" alt="Image Description" />
+            <p>Vast Sky Solutions is excited to introduce a new range of outdoor cabins and pods...</p>
+            <!-- Rest of the article content -->
+        ]]>
+    </content>
+</entry>
+
   
   <entry>
     <title>Vast Sky Solutions Unveils the New Glampod Camping Cabin</title>
